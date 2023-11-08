@@ -1,3 +1,8 @@
+/*Write a C program to find the commission on a salesman&#39;s total sales.
+The commission on a salesman’s total sales is as follows: a) If sales &lt;100, then there
+is no commission. b) If 100&gt;=sales &lt;=500, then commission = 10% of sales. c) If sales &gt;
+500, then commission = 100+8% of sales above 500. Display details of salesman.*/
+
 #include<stdio.h>
 int main(){
     int sales;

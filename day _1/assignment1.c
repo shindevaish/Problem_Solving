@@ -1,3 +1,11 @@
+/*Write a program that asks the user to enter an integer and determines whether it is
+divisible by 5 and 6, whether it is divisible by 5 or 6, and whether it is divisible by
+5 or 6 but not both.
+For example, if your input is 10, the output should be:
+Is 10 divisible by 5 and 6? False
+Is 10 divisible by 5 or 6? True
+Is 10 divisible by 5 or 6, but not both? True*/
+
 #include<stdio.h>
 int main(){
     int num;

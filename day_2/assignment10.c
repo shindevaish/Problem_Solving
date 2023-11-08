@@ -1,3 +1,5 @@
+/*Write a C program to find diameter, circumference and area of circle using function*/
+
 #include <stdio.h>
 
 double Diameter(double radius) {

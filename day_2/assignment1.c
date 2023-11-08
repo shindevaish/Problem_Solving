@@ -1,3 +1,6 @@
+/*Write a program to display Name, Roll No., Gender, Address and Percentage of
+Previous Examination.*/
+
 #include<stdio.h>
 int main(){
     char name[50],gender[15],address;

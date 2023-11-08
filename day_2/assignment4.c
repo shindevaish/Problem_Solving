@@ -1,3 +1,6 @@
+/*Write a program to perform arithmetic operations such as ‘+’, ‘-’, ‘*’, ‘/’, ‘%’ on
+values entered by user.*/
+
 #include<stdio.h>
 int main(){
     int a,b;

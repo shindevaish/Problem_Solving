@@ -1,3 +1,5 @@
+/*Write C program to subtract two integers without using Minus (-) operator*/
+
 #include<stdio.h>
 int main(){
     int count,a,b;

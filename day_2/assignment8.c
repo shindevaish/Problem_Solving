@@ -1,3 +1,5 @@
+/*Write a C Program to print transpose of matrix.*/
+
 #include<stdio.h>
 int main(){
     int row,column;

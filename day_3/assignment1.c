@@ -1,3 +1,12 @@
+/*Write a C program to print the following pattern:
+*
+*A*
+*B*B*
+*C*C*C*
+*D*D*D*D*
+*E*E*E*E*E*E
+... till n lines*/
+
 #include<stdio.h>
 int main(){
     char letter=64;

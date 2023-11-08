@@ -1,3 +1,10 @@
+/*WAP to print the following pattern
+
+      A 
+    B C B 
+  C D E D C 
+D E F G F E D*/
+
 #include <stdio.h>
 
 int main() {

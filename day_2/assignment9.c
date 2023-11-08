@@ -1,3 +1,5 @@
+/*Write a program in C to sort elements of an array in ascending order.*/
+
 #include<stdio.h>
 int main(){
     int size,temp;
